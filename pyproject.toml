@@ -1,0 +1,18 @@
+[project]
+name = "minimax-studio-long-video"
+version = "0.2.2"
+description = "MiniMax H3 video generation in configurable chunks with rolling context, reference images and timed audio guidance."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "comfyuistudio" }]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/comfyuistudio/MiniMax_Studio_Long_Video"
+Issues = "https://github.com/comfyuistudio/MiniMax_Studio_Long_Video/issues"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "MiniMax Studio Long Video"
+Icon = ""
